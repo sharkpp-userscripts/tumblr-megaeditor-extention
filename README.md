@@ -6,7 +6,7 @@
 
 ## インストール
 
-このスクリプトは [Greasy Fork](https://greasyfork.org/ja/scripts/9999-tumblr-megaeditor-extention) のページからインストールすることが出来ます。
+このスクリプトは [Greasy Fork](https://greasyfork.org/ja/scripts/6878-tumblr-megaeditor-extention) のページからインストールすることが出来ます。
 
 インストールおよび実行するには下記のような拡張が必要になります。
 
